@@ -1,0 +1,7 @@
+licence.txt
+setup.py
+pDemo/__init__.py
+pDemo.egg-info/PKG-INFO
+pDemo.egg-info/SOURCES.txt
+pDemo.egg-info/dependency_links.txt
+pDemo.egg-info/top_level.txt
